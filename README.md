@@ -6,10 +6,9 @@ A large part of working with data is being able to interpret data visualizations
 
 
 #### Choose from these dashboards
-Madrid in Detail
+* Madrid in Detail
 
-Malaria in Africa
+* Malaria in Africa
 
-LinkedIn Top Skills
-
-If you choose to work with the LinkedIn data, you may find this article helpful for the insights that you draw.
+* LinkedIn Top Skills
+  If you choose to work with the LinkedIn data, you may find this article helpful for the insights that you draw.
